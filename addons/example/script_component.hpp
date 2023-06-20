@@ -1,5 +1,5 @@
-#define COMPONENT test
-#define COMPONENT_BEAUTIFIED Test
+#define COMPONENT example
+#define COMPONENT_BEAUTIFIED Example
 #include "\z\exm\addons\main\script_mod.hpp"
 
 // Disables CBA precaching, which interferes with file patching

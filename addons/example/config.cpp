@@ -1,7 +1,5 @@
 #include "script_component.hpp"
 
-// TODO: add script_mod.hpp and script_macros.hpp
-
 class CfgPatches {
     class ADDON {
         name = COMPONENT_NAME;
